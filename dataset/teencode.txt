@@ -1,0 +1,984 @@
+ctrai	con trai
+hb  học bổng
+khôg	không
+bme	bố mẹ
+cta	chúng ta
+mih	mình
+mqh	mối quan hệ
+qh quan hệ
+cgai	con gái
+qhc quan hệ công chúng
+vaiz vãi
+nhữg	những
+mng	mọi người
+svtn	sinh viên tình nguyện
+giựt giật
+mừg mừng
+csvc cơ sở vật chất
+r	rồi
+quáa quá
+xtkh xét tuyển kết hợp
+ly_cf ly cà phê
+cđb cái đầu buồi
+djtcu địt cụ
+hsv hội sinh viên
+gke ghê
+ăng_ké ăn ké
+gì_viu review
+nunglon nứng lồn
+khs không hiểu sao
+duno không biết
+quóo quá
+dou đâu
+đou đâu
+đtra đại trà
+baif bài
+đj đi
+avt ảnh đại diện
+zô_ziên vô duyên
+cử_ziên cử viên
+sag 
+vbpl văn bản pháp luật
+vbqpl văn bản quy phạm pháp luật
+kkht khuyến khích học tập
+aiu anh yêu
+azai anh trai
+cdit cái địt
+tgia tham gia
+sgbb bé đường
+sgdd bố đường
+ckảnk chảnh
+mjk mình
+hum không
+buê bê
+thcs trung học sơ sở
+thpt trung học phổ thông
+đuê đê
+ctay chia tay
+zới với
+cb các bạn
+dgnl đánh giấ năng lực
+cuti cute
+cbj chuẩn bị
+ks khách sạn
+ltsxtk lí thuyết xắc suất thống kê
+bf người yêu
+hk1 học kì một
+hk2 học kì hai
+bíc biết
+cỵ chị
+tp thành phố
+pv phỏng vấn
+kco không có
+njt nịt
+mar marketing
+tk tài khoản
+nghiz nghĩ
+cl_gì cái lồn gì
+thậc thật
+nèe nè
+dc được
+c2 cấp hai
+c3 cấp ba
+ac_nghe anh chị nghe
+gòi rồi
+dhs đéo hiểu sao
+qtam	quan tâm
+thươg	thương
+qtâm	quan tâm
+chug	chung
+trườg	trường
+đ 
+đ_đoàn điểm đoàn
+achi anh chị
+cgj chuẩn bị
+cđr chuẩn đầu ra
+thoy	thôi
+lsu lịch sử
+zá giá
+đki	đăng ký
+atsm	ảo tưởng sức mạnh
+ac_ạ anh chị ạ
+ac_nào anh chị nào
+đcm địt con mẹ
+svđ sân vận động
+rw review
+chùi_ui trời ơi
+rv review
+ri_viu review
+rcm đề xuất
+bân_xiển xiên bẩn
+câu_lạc câu lạc bộ
+nka nha
+pdt phòng đào tạo
+dhktqd neu
+maketinh maketing
+tm_ktqt thương mại và kinh tế quốc 
+tdhktqd neu
+dki đăng kí
+oàa òa
+tók tóc
+nhìu nhiều
+bkhoa bách khoa
+gòi rồi
+dô vào
+ngkhac người khác
+cóa có
+sự_kiện sự_kiện
+ngừi người
+ngừi_eo người yêu
+p_là phải là
+đtrai đẹp trai
+fai phải
+đm địt mẹ
+khôm không
+ạk	ạ
+tke thế
+ktdt kinh tế đầu tư
+dzay vậy
+xinloi xin lỗi
+hc học
+ty tình yêu
+đcu địt cụ
+ngệ nghệ
+giúo giúp
+mln mác lênin
+bân_xiển xiên bẩn
+chạ_phải chả phải
+hdt hướng đối tượng
+giúo giúp
+hog không
+pà bài
+ctoi chúng tôi
+mom mẹ
+thic thích
+sn sinh nhật
+choa cho
+kp không phải
+voãi vãi
+nghịp nghiệp
+dzui vui
+mún muốn
+gv giáo viên
+tktkd trong kinh tế và kinh doanh
+tktvkd trong kinh tế và kinh doanh
+cre
+shope shope
+vietel viettel
+cod_thể có thể
+hcm hồ chí minh
+btc ban tổ chức
+sh_câu sinh hoạt câu
+codon cô đơn
+chếc chết
+nhad nha
+ăng_với ăn với
+hl hãm
+tui tôi
+đko đúng không
+ăng_nha ăn nha
+iem em
+rấc rất
+bve bảo vệ
+cmnl con mẹ nó luôn
+nnao như nào
+mik mình
+eiu em yêu
+info thông tin
+ỏo ỏ
+tnao thế nào
+dko đúng không
+pr quảng cáo
+bt biết
+str story
+vt viết
+ngui người yêu
+cv	công việc
+vch	vãi chưởng
+xem_lào xem nào
+xàm_l xàm lồn
+dzô vô
+dzô_diên vô duyên
+ời ơi
+cùg	cùng
+pn	bạn
+pjt	biết
+thjk	thích
+keke	haha
+ktra	kiểm tra
+nek	nè
+cgái	con gái
+nthe	như thế
+chúg	chúng
+kái	cái
+tìh	tình
+phòg	phòng
+lòg	lòng
+từg	từng
+rằg	rằng
+sốg	sống
+thuj	thôi
+thuơng	thương
+càg	càng
+đky	đăng ký
+bằg	bằng
+sviên	sinh viên
+ák	á
+đág	đáng
+nvay	như vậy
+nvs nhà vệ sinh
+nhjeu	nhiều
+xg	xuống
+zồi	rồi
+trag	trang
+zữ	dữ
+atrai	anh trai
+kte	kinh tế
+độg	động
+lmht	liên minh huyền thoại
+gắg	gắng
+đzai	đẹp trai
+thgian	thời gian
+plz	pờ ly
+đồg	đồng
+pldc pháp luật đại cương
+btrai	bạn trai
+nthê	như thế
+hìhì	hì hì
+vọg	vọng
+hihe	hi he
+đôg	đông
+răg	răng
+thườg	thường
+tcảm	tình cảm
+đứg	đứng
+ksao	không sao
+dz	đẹp trai
+hjxhjx	hix hix
+cmày	chúng mày
+xuốg	xuống
+nkư	như
+lquan	liên quan
+tiếg	tiếng
+hajz	hai
+xih	xinh
+hìh	hình
+thàh	thành
+ngke	nghe
+dzậy	dậy
+tnào	thế nào
+tưởg	tưởng
+ctrinh	chương trình
+phog	phong
+hôg	không
+zìa	gì
+kũg	cũng
+ôg ông
+cnt công nghệ thông tin
+cntt công nghệ thông tin
+ql quay lại
+lũi lỗi
+xh xã hội
+dh đại học
+đh điều hòa
+hỉu hiểu
+kỉu kiểu
+thoi thôi
+kbg không bao giờ
+đr đúng rồi
+lod lồn
+nhiu nhiêu
+kó có 
+lém lắm
+chx chưa
+flet khoe
+cíu cứu
+dl deadline
+tml thằng mặt lồn
+svien sinh viên
+jd mô tả công việc
+ntnao	như thế nào
+trọg	trọng
+nthế	như thế
+năg	năng
+huhu
+vcd vãi cả đái
+drl điểm rèn luyện
+đrl điểm rèn luyện
+TvT
+hihi
+ngđó	người đó
+lquen	làm quen
+riêg	riêng
+ngag	ngang
+hêhê	hê hê
+bnhiu	bao nhiêu
+ngốk	ngốc
+kậu	cậu
+highland	hai lừn
+kqua	kết quả
+htrc	hôm trước
+địh	định
+gđình	gia đinh
+giốg	giống
+csống	cuộc sống
+xug	xùng
+zùi	rồi
+bnhiêu	bao nhiêu
+cbị	chuẩn bị
+kòn	còn
+buôg	buông
+csong	cuộc sống
+chàg	chàng
+chăg	chăng
+ngàh	ngành
+llac	liên lạc
+nkưng	nhưng
+nắg	nắng
+gàa gà
+tíh	tính
+khoảg	khoảng
+thík	thích
+ngđo	người đó
+ngkhác	người khác
+thẳg	thẳng
+kảm	cảm
+dàh	dành
+júp	giúp
+lặg	lặng
+vđê	vấn đề
+bbè	bạn bè
+bóg	bóng
+dky	đăng ký
+dòg	dòng
+uốg	uống
+tyêu	tình yêu
+snvv	sinh nhật vui vẻ
+đthoại	điện thoại
+qhe	quan hệ
+cviec	công việc
+tượg	tượng
+qà	quà
+thjc	thích
+nhưq	nhưng
+cđời	cuộc đời
+bthường	bình thường
+zà	già
+đáh	đánh
+xloi	xin lỗi
+zám	dám
+nhể nhỉ
+size_xl size xl
+sz_xl size xl
+cccd căn cước công dân
+gdqp giáo dục quốc phòng
+dh_cd đại học cao đẳng
+đh_cđ đại học cao đẳng
+cđ_nghề cao đẳng nghề
+yc yêu cầu
+đhqg đại học quốc gia
+qa qua
+thcm tư tưởng hcm
+tthcm tư tưởng hcm
+wed web
+chúng_n chúng nó
+bọn_n bọn nó
+pccc phòng cháy chữa cháy
+bhxh bảo hiểm xã hội
+bhtt bảo hiểm thân thể
+blx bằng lái xe
+hà_nụi hà nội
+km
+hen nhỉ
+gs giáo sư
+shcd sinh hoạt công dân
+chọt chọc
+haiz
+dặ
+lấy_bđ lấy bê đê
+sồu
+nhma nhưng mà
+hợp_ní hợp lí
+zo vô
+như_nồn như lồn
+haz
+trol trêu
+ngol ngon
+u
+xàm_l xàm lồn
+cm
+hvcsnd học viện cảnh sát nhân dân
+qtrọng	quan trọng
+qtr quan trọng
+vb2 văn bằng hai
+vb_2 văn bằng hai
+vbang2 văn bằng hai
+vb_hai văn bằng hai
+vbang_hai văn bằng hai
+vb văn bản
+sbt sách bài tập
+trừi trời
+ưi ơi
+đkí đăng kí
+cúi_tháng cuối tháng
+uke oke
+shao sao
+bìh	bình
+lzi	làm gì
+qhệ	quan hệ
+đhbkhn	đại học bách khoa hà nội
+hajzz	hai
+kủa	của
+lz	làm gì
+đhkhtn	đại học khoa học tự nhiên
+đóg	đóng
+cka	cha
+lgi	làm gì
+nvậy	như vậy
+qả	quả
+đkiện	điều kiện
+nèk	nè
+tlai	tương lai
+bsĩ	bác sĩ
+hkì	học kỳ
+đcsvn	đảng cộng sản việt nam
+vde	vấn đề
+chta	chúng ta
+òy	rồi
+ltinh	linh tinh
+ngyeu	người yêu
+đthoai	điện thoại
+snghĩ	suy nghĩ
+nặg	nặng
+họk	học
+dừg	dừng
+hphúc	hạnh phúc
+hiha	hi ha
+wtâm	quan tâm
+thíck	thích
+chuện	chuyện
+lạh	lạnh
+fây	facebook
+ntnày	như thế này
+lúk	lúc
+haj	hai
+ngía	nghía
+mớj	mới
+hsơ	hồ sơ
+ctraj	con trai
+nyêu	người yêu
+điiiiiii	đi
+rồii	rồi
+c	chị
+kih	kinh
+kb	kết bạn
+hixxx	hích
+dthương	dễ thương
+nhiềuuu	nhiều
+ctrình	chương trình
+mìnk	mình
+mjh	mình
+ng	người
+vc	vợ chồng
+uhm	ừm
+thỳ	thì
+nyc	người yêu cũ
+tks	thanks
+nàg	nàng
+thôii	thôi
+đjên	điên
+bgái	bạn gái
+vớii	với
+xink	xinh
+hđộng	hành động
+đhọc	đại học
+mk	mình
+bn	bạn
+thik	thích
+cj	chị
+mn	mọi người
+nguoi	người
+nógn	nóng
+hok	không
+ko	không
+bik	biết
+vs	với
+cx	cũng
+mik	mình
+wtf	what the fuck
+đc	được
+cmt	comment
+mer mơ
+pờ tít ptit
+ptkd phân tích kinh doanh
+th4k thật
+nquonq ngưỡng
+yay
+s6xtoy sextoy
+qáa quá
+ck	chồng
+chk	chồng
+ngta	người ta
+gđ	gia đình
+oh	ồ
+vk	vợ
+ctác	công tác
+sg	sài gòn
+ae	anh em
+ah	à
+ạh	ạ
+rì	gì
+ms	mới
+vn	việt nam
+chớt chết
+đst đại số tuyến tính
+qsu quân sự
+bh bao giờ
+kd kinh doanh
+cũg	cũng
+ư
+đag	đang
+ơiii	ơi
+hic	hích
+ace	anh chị em
+àk	à
+uh	ừ
+cmm	con mẹ mày
+cmnr	con mẹ nó rồi
+ơiiii	ơi
+hnay	hôm nay
+ukm	ừm
+tq	trung quốc
+ctr	chương trình
+đii	đi
+nch	nói chuyện
+trieu	triệu
+hahah	
+nta	người ta
+ngèo	nghèo
+kêh	kênh
+ak	à
+ad	admin
+j	gì
+ny	người yêu
+dc	được
+qc	quảng cáo
+baoh	bao giờ
+zui	vui
+zứi với
+daihocchinhquy đại học chính quy
+ptt powerpoint
+bhyt bảo hiểm y tế
+tphn thành phố hà nội
+zẻ	vẻ
+tym	tim
+aye	anh yêu em
+eya	em yêu anh
+fb	facebook
+insta	instagram
+z	vậy
+thich	thích
+vcl	vờ cờ lờ
+vkl vờ cờ lờ
+đt	điện thoại
+acc	account
+lol	lồn
+loz	lồn
+lòn lồn
+lozz	lồn
+trc	trước
+chs	chẳng hiểu sao
+đhs	đéo hiểu sao
+qá	quá
+clg cái lồn gì
+thiệc thật
+pls làm ơn
+clgt cái lồn gì thế
+đth điện thoại
+lên_ts lên tiến sĩ
+đel đéo
+cmay chúng mày
+mạnh_mẻ mạnh mẽ
+hjc hic
+hem không
+khdl khoa học dữ liệu
+qt quan tâm
+ròo rồi
+đey đây
+gì_viu review
+ntn	như thế nào
+wá	quá
+zậy	vậy
+zô	vô
+ytb	youtube
+vđ	vãi đái
+vchg	vãi chưởng
+sml	sấp mặt lờ
+xl	xin lỗi
+cmn	con mẹ nó
+face	facebook
+hjhj	hi hi
+vv	vui vẻ
+ns	nói
+iu	yêu
+vcđ	vãi cải đái
+in4	thông tin
+qq	quằn què
+qtv quản trị viên
+xđ xác định
+hobo học bổng
+tkb thời khóa biểu
+vldc vật lý đại cương
+hm
+mềnh mình
+đúm đúng
+ls lo sợ
+người_hp người hải phòng
+gốc_hp gốc hải phòng
+tkt toán kinh tế
+tatc tiếng anh tăng cường
+daotao đào tạo
+qlai quay lại
+ngyc người yêu cũ
+plđc pháp luật đại cương
+kbt không biết
+sub	subcribe
+kh	không
+dza dạ
+zạ	vậy
+oy	rồi
+jo	giờ
+job công việc
+nt nhắn tin
+ther thơ
+clmm	cái lồn mẹ mày
+bsvv	buổi sáng vui vẻ
+troai	trai
+wa	quá
+msv mã sinh viên
+nhíe nhé
+hjx	hix
+tvts tư vấn tuyển sinh
+e	em
+ik	ý
+ji	gì
+ce	chị em
+lm	làm
+đz	đẹp giai
+sr	sorry
+ib	inbox
+hoy	thôi
+đbh	đéo bao giờ
+k	không
+vd	ví dụ
+a	anh
+cũng_z	cũng vậy
+z_là	vậy là
+unf	unfriend
+zía vía
+skien sự kiện
+th thôi
+ctsv công tác sinh viên
+nh nhiều
+được_kg được không
+đtvt điện tử viễn thông
+hãm_l hãm lồn
+ham_l hãm lồn
+dr đúng rồi
+my fen	my friend
+fen	friend
+cty	công ty
+on lai	online
+míng miếng
+gki giữa kì
+kô	không
+đtqg	đội tuyển quốc gia
+hqua	hôm qua
+xog	xong
+uh	ừ
+uk	ừ
+nhoé	nhé
+biet	biết
+quí	quý
+stk	số tài khoản
+hong kong	hồng kông
+đươc	được
+nghành	ngành
+nvqs	nghĩa vụ quân sự
+ngừoi	người
+trog	trong
+tgian	thời gian
+biêt	biết
+fải	phải
+nguời	người
+tđn	thế đéo nào
+bth	bình thường
+vcđ	vãi cả đái
+tgdd	thế giới di động
+gdtc giáo dục thể chất
+t2 thứ hai
+t3 thứ ba
+t4 thứ tư
+t5 thứ năm
+t6 thứ sáu
+t7 thứ bảy
+cn chủ nhật
+khg	không
+nhưg	nhưng
+thpt	trung học phổ thông
+thằg	thằng
+đuợc	được
+dc	được
+pts chinh ảnh
+đc	được
+ah	à
+àh	à
+ku	cu
+thým	thím
+onl	online
+zô	dô
+zú	vú
+cmnd	chứng minh nhân dân
+sđt	số điện thoại
+klq	không liên quan
+hông không
+any anh người yêu
+ani anh người yêu
+tuôi tôi
+t tôi
+cái_b cái buồi
+b bạn
+clc chất lượng cao
+lèm_seo làm sao
+làm_seo làm sao
+thì_seo thì sao
+tính_seo    tính sao
+thui    thôi
+sv sinh viên
+xkld xuất khẩu lao động
+ngok ngốc
+gòy rồi
+trầm_zn trầm cảm
+chầm_kẽm trầm cẩm
+vhvl vừa học vừa làm
+sp_tin sư phạm tin
+sp_toán sư phạm toán
+sp_hóa sư phạm hóa
+m mày
+ò
+qtdn quản trị doanh nghiệp
+khoa_qtkd khoa quản trị kinh doanh
+môn_qtkd môn quản trị kinh doanh
+qtkd quản trị kinh doanh
+dax đã
+khók khóc
+bg bao giờ
+trou trẩu
+cụng cũng
+bk bách khoa
+gàe gà
+zai trai
+bt_tài bài tập tài
+xstk xắc suất thống kê
+dit địt
+taek taekwondo
+teak taekwondo
+pé bé
+pán bán
+phại phải
+z vậy
+h giờ
+hgc học
+hn hà nội
+tr triệu
+quài hoài
+dzạy vậy
+zạy vậy
+khum không
+cóa có
+tồy tồi
+ki không
+bít biết
+đk được không
+quớ quá
+0 không
+tbao thông báo
+ch chưa
+chym chim
+dui vui
+vl vãi
+cừi cười
+íp iphone
+lh liên hệ
+pp phương pháp
+nckh nghiên cứu khoa học
+kara karate
+v vậy
+oii ơi
+nx nữa
+ròii rồi
+ròi rồi
+hđ hợp đồng
+s sao
+bok book
+lok look
+pas pass
+thoai thôi
+ct chương trình
+ctdt chương trình đào tạo
+ctđt chương trình đào tạo
+fre free
+dug dùng
+cgi cái gì
+dth dễ thương
+dzu vú
+sz size
+rứa thế
+tsv tân sinh viên
+juan chuẩn
+vjp vip
+đcđ đéo chịu được
+aply apply
+zị vậy
+cbi chuẩn bị
+ful full
+sòu sầu
+lun luôn
+ja đúng
+quao 
+thk thích
+lên_dh lên đại học
+bật_dh bật điều hòa
+vp văn phòng
+facebok facebook
+rùi rồi
+nma nhưng mà
+vailon vãi lồn
+vailonz vãi lồn vậy
+xốu xấu
+lmj làm gì
+gái_sp gái sư phạm
+trai_sp trai sư phạm
+ktqt kinh tế quốc tế
+roài rồi
+nlkt nguyên lí kế toán
+chòi trời
+trg trường
+tl trả lời
+dm địt mẹ
+gr nhóm
+qtnl quản trị nhân lực
+pk đánh
+chịi chị
+chil chill
+bro bạn
+ngc ngược
+coá có
+coment comment
+đg đang
+hâha 
+òi rồi
+dô vào
+sbd số báo danh
+thg thằng
+dkm địt mẹ
+dm địt mẹ
+dcm địt mẹ
+mi mày
+wow 
+ha
+haha
+u_lít ulis
+gt giới thiệu
+lói nói
+ysl yếu sinh lý
+ạa ạ
+xét_tn xét tốt nghiệp
+ktct kinh tế chính trị
+ctv cộng tác viên
+xphep xin phép
+sos
+ét o ét
+éc o éc
+học_ts học tiến sĩ
+yêu_mài yêu mày
+aieo ielts
+ie ielts
+ktx kí túc xá
+cnxhkh chủ nghĩa xã hội khoa học
+girl nữ
+choán chán
+zay vậy
+òo ồ
+ktpt kinh tế phát triển
+biêts biết
+rep_tn trả lời tin nhắn 
+hỏ hả
+uây
+quào
+pgs phó giáo 
+đỉnk 
+zl vãi
+jz gì vậy
+shope shopee
+kút cút
+al all
+bienthai biến thái
+truonglon trường lồn
+ubnd ủy ban nhân dân
+ăn_l ăn lồn
+tnh trách nhiệm hữu hạn
+tnhh trách nhiệm hữu hạn
+jztr gì vậy trời
+zal0 zalo
+qđ quy định
+kphai không phải
+qd quy định
+hoc_ths học thạc sĩ
+học_ths học thạc sĩ
+ths_ngành thạc sĩ ngành
+ths cảm ơn
+thk cảm ơn
+ngthan người thân
+căcj cặc gì
+cj cái gì
+clb câu lạc bộ
+lcd liên chi đoàn
+lcđ liên chi đoàn
+trl trả lời
+sịn xịn
+aiz
+yeh
+kg
+h
+tr
+tadv tiếng anh đầu vào
+nhứt nhất
+burh
+bủh
+tcdn tài chính doanh nghiệp
+a
+b
+c
+d
+e
+g
+h
+i
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+aiza
